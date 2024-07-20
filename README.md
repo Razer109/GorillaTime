@@ -1,5 +1,5 @@
 # GorillaTime
-##A Gorilla Tag mod that shows your time on your pc.
+## A Gorilla Tag mod that shows your time on your pc.
 
 # Welcome to Gorilla Time!
 With this mod you can slightly glance at your computer and see the current time!
